@@ -84,6 +84,7 @@ int PrintMonth(int numOfDays, string monthName, int dayTracker)
   return dayTracker;
 }
 
+// * * * O U T P U T   C O M M E N T E D   B E L O W * * *
 //Enter the year:
 //2010
 //Enter the start date (0 = Sun, 1 = Mon, 2 = Tues, 3 = Wed, 4 = Thurs, 5 = Fri, 6 = Sat): 3
